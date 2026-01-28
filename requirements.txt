@@ -1,0 +1,5 @@
+flask
+werkzeug
+sqlalchemy
+requests
+PyPDF2
